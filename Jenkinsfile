@@ -9,7 +9,7 @@ pipeline {
 
         stage('Hello stage') {
             steps {
-                echo 'maven start stage...'
+                echo 'maven start hello stage...'
                 // Add your clean steps here
               
             }
